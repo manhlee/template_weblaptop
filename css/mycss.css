@@ -1,0 +1,17 @@
+* {
+	margin:0px;
+	padding: 0px;
+	font-style: 18px;
+	font-family: 'Xanh Mono', monospace;
+}
+body {
+
+}
+ .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  .img_slide{
+  	height:350px !important;
+  }
+  
